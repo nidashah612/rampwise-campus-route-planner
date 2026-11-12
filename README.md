@@ -34,7 +34,6 @@ Planning (user and scope), analysis (needs and data), design (wireframes in /doc
 Design report: `docs/Design-Report.pdf` (editable copy: `docs/Design-Report.docx`). Wireframe: `docs/wireframe.svg`.
 
 ## AI assistance disclosure
-Claude generated the first draft of the code; I reviewed, tested and modified it.
-
+All code in this project is original, except for the initial draft generated with AI assistance (Claude by Anthropic). I have thoroughly reviewed, tested, and verified all code, and I fully understand its implementation
 ## Attribution
 No external libraries, templates or assets. All sample data is invented.

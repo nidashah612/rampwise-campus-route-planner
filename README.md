@@ -1,16 +1,17 @@
 # RampWise: Accessible Campus Route Planner
 
-**Assigned idea:** Accessible Campus Route Planner  
-**Extra rule / data variant from instructor:** _(write it here)_  
-**Author:** _(your name and ID)_
-
+**Assigned idea: Accessible Campus Route Planner** 
+**Author: Nida Shah**
+**CMSid:507819**
+**Submitted to:Dr. Muhammad Khuram Shahzad**
+**Course:CS-344-Web Engineering B 2K24-BESE-15**
 ## User and problem
 A student or visitor with a mobility need (wheelchair, crutches, low stamina, stroller) must get between campus buildings. Normal maps do not show steps, steep slopes or broken lifts. The planner filters routes by those needs and shows travel time and warnings.
 
 ## Run it
 No build step or backend. Download or clone the repo and open `index.html` in a browser.
 Optional local server: `python -m http.server 8000`, then visit http://localhost:8000.
-Live URL: _(GitHub Pages link)_
+Live URL:https://nidashah612.github.io/rampwise-campus-route-planner/
 
 ## Features
 - Route finder: filters by building pair, step-free, covered, steep slope, maximum distance; sort by time or accessibility.
@@ -33,7 +34,7 @@ Planning (user and scope), analysis (needs and data), design (wireframes in /doc
 Design report: `docs/Design-Report.pdf` (editable copy: `docs/Design-Report.docx`). Wireframe: `docs/wireframe.svg`.
 
 ## AI assistance disclosure
-_(State exactly how AI was used, for example "Claude generated the first draft of the code; I reviewed, tested and modified it.")_
+Claude generated the first draft of the code; I reviewed, tested and modified it.
 
 ## Attribution
 No external libraries, templates or assets. All sample data is invented.
